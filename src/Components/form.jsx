@@ -5,7 +5,7 @@ export default function form() {
             <div>
                   <h3>Form</h3>
 
-                  <form action="http://localhost:3001/data" method="get">
+                  <form action="http://65.2.79.48:3001/data" method="get">
                         <label>Name: </label><br></br>
                         <input type="text" name="name" id="" required /><br></br><br></br>
                         <label>Phone: </label><br></br>
